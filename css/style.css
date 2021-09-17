@@ -4,7 +4,7 @@ header {
     background: url(../img/Serenavanderwoodsen.png);
     background-size: cover;
     background-repeat: none;
-    padding: 15%;
+    padding: 16%;
     margin-bottom: 5%;
 }
 
@@ -27,6 +27,7 @@ nav {
 nav li {
     display: inline-block;
     margin-left: 1%;
+
 }
 
 nav a {
@@ -38,10 +39,9 @@ nav a {
 .titulo {
     color: white;
     text-align: left;
-    margin-left: 25%;
-    margin-right: 25%;
     font-family: 'Roboto', sans-serif;
     margin-top: 1%;
+    font-size: 150%;
 }
 
 section {
@@ -98,4 +98,18 @@ img {
 
 strong {
     color: #FFFF;
+}
+
+
+.list {
+    color: #FFFF;
+    display: inline-block;
+    font-size: 50px;
+    padding: 5%;
+    position: relative;
+    text-align: center;
+}
+
+.no-ordem {
+    text-align: center;
 }
