@@ -57,7 +57,7 @@ nav a {
     margin-left: 30%;
 }
 
-.titulo, .titulos-paginas::after {
+.titulo::after {
     content: "|";
     margin-left: 5px;
     opacity: 1;
