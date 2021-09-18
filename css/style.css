@@ -79,9 +79,14 @@ section {
     column-count: 4;
 }
 
-@media(max-width: 200px) {
+@media (max-width: 400px) {
+    .titulo {
+        font-size: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
     section {
-        column-count: 2;
+        column-count: 1;
     }
 }
 
