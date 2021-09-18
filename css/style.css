@@ -79,7 +79,7 @@ section {
     column-count: 4;
 }
 
-@media (max-width: 400px) {
+@media(max-width: 200px) {
     section {
         column-count: 2;
     }
