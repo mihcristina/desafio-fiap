@@ -123,6 +123,17 @@ strong {
     text-align: center;
 }
 
+
+.final .fas {
+    color: #ffff;
+    font-size: 300%;
+}
+.final {
+    display: block;
+    margin-left: 50%;
+    margin-top: 30px;
+}
+
 /*Sobre*/
 
 h1 {
