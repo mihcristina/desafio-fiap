@@ -45,6 +45,7 @@ nav a {
     align-items: left;
     margin-right: 50%;
     margin-left: 1%;
+    line-height: 150%;
 
 }
 
@@ -115,6 +116,7 @@ section {
     color: #6B7C93;
     font-size: .875em;
     line-height: 1.4em;
+    line-height: 150%;
 }
 
 .box a {
